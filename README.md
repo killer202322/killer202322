@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝  ╚═══╝
 ```
 
-### Desarrollador de Software & Emprendedor · Cuba 🇨🇴
+### Desarrollador de Software & Emprendedor · Cuba 🇨🇺
 **Convirtiendo ideas en productos reales que funcionan en el mundo real.**
 
 [![Website](https://img.shields.io/badge/killerdev.xyz-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://killerdev.xyz)
@@ -19,17 +19,16 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=killer202322&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-
 ## ⚡ Quién soy
 
-- Construyo sistemas que resuelven **problemas reales de negocio**.
-- Especialista en **arquitecturas Offline-First** y sistemas que funcionan sin internet.
-- Apasionado por **UI/UX inmersiva**, rendimiento extremo y escalabilidad.
-- Creo que el mejor código es el que **nadie nota** porque todo simplemente funciona.
-- Siempre buscando el siguiente **problema imposible** que resolver.
+Soy un desarrollador de software cubano enfocado en construir **productos reales** que resuelven **problemas reales**. No escribo código por escribir — cada línea tiene un propósito, cada sistema tiene un impacto.
 
-<br clear="right"/>
+- Especialista en **arquitecturas Offline-First** — sistemas que funcionan con o sin internet.
+- Enfocado en **rendimiento extremo**, UI/UX inmersiva y escalabilidad real.
+- Construyo desde la infraestructura hasta la interfaz — **Full Stack de verdad**.
+- Experiencia creando bots, APIs REST, sistemas POS, plataformas web y paneles de administración.
+- Creo que el mejor software es el que **el usuario no nota** porque todo simplemente funciona.
+- Siempre buscando el siguiente problema que parezca **imposible de resolver**.
 
 ---
 
@@ -63,30 +62,43 @@
 
 ---
 
+## 💡 Qué construyo
+
+```
+✦ APIs REST          →  Escalables, seguras y bien documentadas
+✦ Bots inteligentes  →  Discord & Telegram con lógica de negocio real
+✦ Sistemas POS       →  Control total de ventas, caja e inventario
+✦ Webs de alto rend. →  Mobile-First, rápidas y con excelente UX
+✦ Paneles Admin      →  Dashboards que realmente ayudan a tomar decisiones
+✦ Automatizaciones   →  Sistemas que trabajan solos mientras tú duermes
+```
+
+---
+
 ## 🚀 Proyecto Principal
 
 <div align="center">
 
 ### 🛒 KillerPos — El Sistema Operativo para tu Negocio
 
-> *Diseñado para emprendedores que no tienen tiempo que perder.*
+> *Nacido del emprendimiento real. Probado en entornos reales.*
 
 </div>
 
-KillerPos no es solo un punto de venta — es una plataforma completa que centraliza toda la operación de tu negocio en un solo lugar, con tecnología de nivel enterprise al alcance de cualquier emprendedor.
+KillerPos no es solo un punto de venta — es una **plataforma integral** que centraliza toda la operación de tu negocio en un solo lugar, con tecnología de nivel enterprise al alcance de cualquier emprendedor.
 
 | Módulo | Descripción |
 |--------|-------------|
 | 💰 **Ventas & Caja** | POS rápido, control de caja en tiempo real y facturación |
 | 📦 **Inventario Avanzado** | Stock con variantes, categorías y alertas automáticas |
 | 📊 **Finanzas & Reportes** | Analítica de negocio, ventas por período y rendimiento |
-| 🏢 **Multi-Sucursal** | Gestión centralizada de varias ubicaciones |
+| 🏢 **Multi-Sucursal** | Gestión centralizada de varias ubicaciones desde un solo panel |
 | 🔌 **Modo Offline** | Funciona sin internet, sincroniza automáticamente al reconectar |
 | 👥 **Gestión de Clientes** | Base de datos, historial de compras y fidelización |
 | 🔒 **Seguridad Bancaria** | SSL 256-bit, PCI DSS e ISO 27001 |
-| 🔄 **Actualizaciones Automáticas** | Siempre actualizado sin interrupciones |
-| 🌐 **Dominio Propio** | `tunegocio.killerpos.shop` incluido |
-| 🛟 **Soporte 24/7** | Atención permanente cuando la necesites |
+| 🔄 **Actualizaciones Automáticas** | Siempre actualizado sin interrupciones ni costos extra |
+| 🌐 **Dominio Propio** | `tunegocio.killerpos.shop` incluido en tu plan |
+| 🛟 **Soporte 24/7** | Atención permanente cuando más lo necesitas |
 
 <div align="center">
 
@@ -96,14 +108,15 @@ KillerPos no es solo un punto de venta — es una plataforma completa que centra
 
 ---
 
-## 📈 Estadísticas
+## 📊 Valor que aporto
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=killer202322&theme=radical&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killer202322&layout=compact&theme=radical&hide_border=true&count_private=true" width="49%" />
-
-</div>
+| | |
+|---|---|
+| ⚡ **Velocidad que vende** | Desarrollos optimizados para retención y conversión |
+| 🛡️ **Seguridad blindada** | Protocolos robustos para la protección total de tus datos |
+| 🤖 **Automatización inteligente** | Sistemas que liberan tiempo operativo y reducen errores |
+| 📱 **Mobile-First** | Todo funciona perfecto desde cualquier dispositivo |
+| 🌐 **Offline-First** | Tu negocio no se detiene aunque se corte el internet |
 
 ---
 
@@ -111,10 +124,10 @@ KillerPos no es solo un punto de venta — es una plataforma completa que centra
 
 ### ¿Tienes un problema que nadie ha podido resolver?
 
-**Hablemos.**
+**No busques un proveedor. Busca un socio tecnológico.**
 
 [![Website](https://img.shields.io/badge/killerdev.xyz-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://killerdev.xyz)
 
-*"Ingeniería de Clase Mundial."*
+*"Ingeniería Cubana de Clase Mundial."*
 
 </div>
