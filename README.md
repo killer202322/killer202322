@@ -1,13 +1,16 @@
-<h1 align="center">Hola, soy KILLER-DEV 👋</h1>
+<h1 align="center">Hola, soy KillerDev 👋</h1>
 
 <p align="center">
-  <b>Desarrollador Full Stack | Cuba 🇨🇺</b><br/>
-  Construyendo soluciones reales con código desde ShopingKiller
+  <b>Desarrollador de Software & Emprendedor Cubano</b><br/>
+  Construyendo puentes entre problemas complejos y soluciones simples mediante tecnología de alto rendimiento.
 </p>
 
 <p align="center">
-  <a href="https://shopingkiller.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Website-shopingkiller.xyz-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://killerdev.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/killerdev.xyz-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://killerpos.shop" target="_blank">
+    <img src="https://img.shields.io/badge/KillerPos-FF4500?style=for-the-badge&logo=shopify&logoColor=white" />
   </a>
 </p>
 
@@ -15,53 +18,50 @@
 
 ## Sobre mí
 
-- Desarrollo bots, APIs REST, webs y sistemas de punto de venta.
-- Trabajo principalmente con **JavaScript** y **TypeScript**.
-- Fundador de **ShopingKiller** — plataforma de comercio en Cuba.
-- Siempre aprendiendo y construyendo cosas nuevas.
+- Especializado en **sistemas Offline-First** y **arquitecturas escalables**.
+- Enfoque en **Mobile-First**, UI/UX inmersiva y optimización de rendimiento.
+- Fundador de **ShopingKiller** — tecnología para el emprendimiento cubano.
+- No busco clientes, busco **socios tecnológicos**.
 
 ---
 
-## Tecnologías
+## Stack Tecnológico
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
 </p>
 
 ---
 
-## Proyectos destacados
+## Proyecto Principal
 
-### Bots
-- **discord-bot-server** — Bot de Discord en TypeScript (activo)
-- **ShopingKillerBot** — Bot principal de ShopingKiller
-- **NailBots-Telegram** — Bot de Telegram para servicios de manicure
-- **Bot_Planes** — Bot de gestión de planes (varias versiones)
+### 🛒 KillerPos — El Sistema Operativo para tu Negocio
 
-### Webs & Frontend
-- **web-panel-admin** — Panel de administración en TypeScript
-- **Manicure-Bot-Website** — Web en Astro para negocio de manicure
-- **Video-Game-Search-Website** — Buscador de videojuegos en TypeScript
-- **Web-ComprandoFacil** — Web para plataforma de compras
+> Un punto de venta integral diseñado para la realidad del emprendimiento, nacido de experiencia propia y probado en entornos reales.
 
-### APIs & Backend
-- **backend-api** — API backend en TypeScript
-- **API-REST-Ecommerce-con-MySQL** — API REST para e-commerce con MySQL
-- **Api-Full-Rest-MoongoDb** — API REST completa con MongoDB
-- **Api-GustaGames** — API para plataforma de juegos
+**Capacidades clave:**
 
-### Sistemas
-- **Punto-Pos-16-12-Mejorada** — Sistema de punto de venta
-- **ShopingKillerPunto** — POS para ShopingKiller
-- **Dashboard-v.0.1.0** — Dashboard de gestión
+- **Ventas & Caja** — Punto de venta rápido, control de caja en tiempo real y facturación.
+- **Inventario Avanzado** — Control de stock, variantes de productos y categorización inteligente.
+- **Finanzas & Reportes** — Analítica de negocio, productos más vendidos, rendimiento diario/mensual.
+- **Multi-Sucursal** — Gestión centralizada de varias ubicaciones desde un solo panel.
+- **Offline-First** — Modo sin conexión robusto, sincronización cloud automática al reconectar.
+- **Seguridad Bancaria** — SSL 256 bits, PCI DSS, ISO 27001 y actualizaciones automáticas.
+- **Soporte 24/7** — Atención permanente y dominio personalizado por negocio.
+
+<p>
+  <a href="https://killerpos.shop" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20KillerPos-FF4500?style=for-the-badge&logo=shopify&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -75,5 +75,6 @@
 ---
 
 <p align="center">
-  <i>"Cada línea de código es un paso más hacia el objetivo."</i>
+  <i>"Ingeniería Cubana de Clase Mundial."</i><br/>
+  <a href="https://killerdev.xyz">killerdev.xyz</a>
 </p>
